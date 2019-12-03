@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: Jacob Lee
 show_downloads: true
+github:
+  zip_url: http://example.com/download.zip
+  another_url: http://example.com/download.zip
+  repository_url: http://example.com/download.zip
